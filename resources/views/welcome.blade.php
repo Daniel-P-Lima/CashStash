@@ -22,5 +22,7 @@
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
         <h1 class="title-cash">CashStash</h1>
         <a href="#">Login</a>
+        <a href="/contact">Contact</a>
+        <a href="/tracking">Track Your Money</a>
     </body>
 </html>

@@ -9,5 +9,6 @@
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
         <h1>Contact</h1>
         <p>9999999999</p>
+        <a href="/">Home page</a>
     </body>
 </html>
