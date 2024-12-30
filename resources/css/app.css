@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title-cash {
+    display: flex;
+    justify-self: center;
+}
